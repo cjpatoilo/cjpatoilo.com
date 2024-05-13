@@ -8,7 +8,7 @@
   "author": "CJ Patoilo <cjpatoilo@gmail.com>",
   "private": true,
   "dependencies": {
-    "@sentry/browser": "^5.29.2",
+    "@sentry/browser": "^8.0.0",
     "font-awesome": "^4.7.0",
     "google-fonts": "^1.0.0",
     "milligram": "^1.4.1",
