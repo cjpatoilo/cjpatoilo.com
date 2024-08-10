@@ -37,7 +37,7 @@
     "husky": "^4.3.6",
     "lint-staged": "^10.5.3",
     "prettier-standard": "^16.4.1",
-    "surge": "^0.21.7"
+    "surge": "^0.24.0"
   },
   "scripts": {
     "build": "react-scripts build",
